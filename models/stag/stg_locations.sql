@@ -1,4 +1,4 @@
-{{config(matalized = 'view')}}
+{{config(materialized = 'view')}}
 
 SELECT
 *

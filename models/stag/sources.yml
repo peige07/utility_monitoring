@@ -1,0 +1,10 @@
+sources:
+  - name: dbt_source
+    database: PRACTICE
+    schema: DBT_SOURCE
+    tables:
+      - name: accounts
+      - name: locations
+      - name: rate_history
+      - name: utility_bills
+      - name: vendors
